@@ -16,6 +16,10 @@ Result:
 
 Every time you open a JIRA ticket, next to the name there will be a button called 'Copy branch name'. It will prepare a branch name from the ticket number eg. 'feature/CR-182' and copy it to the clipboard. Now you can go to console and create your branch faster.
 
+## Security
+
+Validate the security of your browser, JS execution extension and your code to make sure, you won't copy and execute malcious script in your console.
+
 ## Become a patron
 
 Become a patron for 3$ and receive amazing Patreon benefits:
