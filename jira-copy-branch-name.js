@@ -38,6 +38,8 @@ function markTicketName() {
 
         const header = document.querySelector('#jira-issue-header');
         header.appendChild(branchId);
+
+        document.title = branchName;
     }
 }
 

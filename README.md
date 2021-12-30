@@ -1,10 +1,18 @@
-# JIRA: Copy branch name
+# JIRA: Copy branch name & ticket in the browser title
 
-The extension to JIRA to allows you to easily copy a branch name from a ticket
+The extension to JIRA to allows you to easily copy a branch name from a ticket. No integration with GitHub, GitLab, etc required!
 
-Result:
+## Features
+
+1. Easily copy a branch name in GitFlow naming convention
 
 ![](images/demo.png)
+
+2. See the branch name in your browser title and in toolbar
+
+![](images/title.png)
+
+3. Easy to customise. It is pure, editable JavaScript
 
 ## How to use
 1. Install 'Run JavaScript' extension (https://chrome.google.com/webstore/detail/run-javascript/lmilalhkkdhfieeienjbiicclobibjao?hl=en) for Chrome, or any other extension that allows you to run JavaScript in the browser
@@ -25,10 +33,6 @@ Validate the security of your browser, JS execution extension and your code to m
 Become a patron for 3$ and receive amazing Patreon benefits:
 
 https://www.patreon.com/tomaszs
-
-## Customisation
-
-You can change the code as you wish to match your preferences
 
 ## Contribution
 
