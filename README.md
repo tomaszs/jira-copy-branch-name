@@ -20,7 +20,7 @@ A JIRA extension that allows you to easily copy a branch name from a ticket.
 ## How to use
 1. Install 'Run JavaScript' extension (https://chrome.google.com/webstore/detail/run-javascript/lmilalhkkdhfieeienjbiicclobibjao?hl=en) for Chrome, or any other extension that allows you to run JavaScript in the browser
 2. Open JIRA ticket
-3. Paste code from jira-copy-branch-name.js into Run JavaScript window, and select 'Enable on <your website>' checkbox
+3. Paste code from [jira-copy-branch-name.js](https://github.com/tomaszs/jira-copy-branch-name/blob/main/jira-copy-branch-name.js) into Run JavaScript window, and select 'Enable on <your website>' checkbox
 4. Click Save and Run
 
 ## Expected result
