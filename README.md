@@ -39,7 +39,7 @@ https://www.patreon.com/tomaszs
 
 ## Contribution
 
-You can commit a MR if you like
+You can commit a PR if you like
 
 ## Authors
 
