@@ -1,6 +1,9 @@
 # JIRA: Copy branch name & ticket in the browser title
 
-The extension to JIRA to allows you to easily copy a branch name from a ticket. No integration with GitHub, GitLab, etc required!
+A JIRA extension that allows you to easily copy a branch name from a ticket.
+
+- No GitHub, GitLab etc. integration needed
+- No JIRA admin rights needed
 
 ## Features
 
