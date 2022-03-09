@@ -1,4 +1,4 @@
-# JIRA: Copy branch name & ticket in the browser title
+# JIRA: Copy branch name & show ticket in the browser title
 
 A JIRA extension that allows you to easily copy a branch name from a ticket.
 
